@@ -4,7 +4,7 @@
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
 ## ALGORITHM:
-
+```
 /*
 STEP 1:Read the given Data.
 STEP 2:Clean the Data Set using Data Cleaning Process.
@@ -13,6 +13,7 @@ STEP 4:Apply Feature Transformation for the feature in the data set.
 STEP 5:Save the data to the file.
 
 */
+```
 
 ## FEATURE ENCODING:
 1. Ordinal Encoding
