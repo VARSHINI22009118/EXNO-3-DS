@@ -38,6 +38,11 @@ We use this categorical data encoding technique when the features are nominal(do
 
 ## CODING AND OUTPUT:
 
+```
+NAME: VARSHINI S A
+REGNO: 212222100059
+```
+
 ~~~
      import pandas as pd
      df=pd.read_csv("/content/Encoding Data.csv")
